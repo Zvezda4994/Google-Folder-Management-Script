@@ -43,4 +43,3 @@ function checkForUpdates() {
 
 
 
-//Please make sure to replace the placeholders: YOUR_SOURCE_FOLDER_ID with the actual ID of the folder you want to search for files. YOUR_PARENT_FOLDER_ID with the actual ID of the main folder hosting the subfolders. WORD_PATTERN_TO_SEARCH_FOR\.pdf with the appropriate regex patterns to match the filenames you want to add to the subfolders.
