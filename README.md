@@ -1,4 +1,4 @@
-# Google-appscript-Sample
+# Google-Folder-Management-Script
 # Folder Management Script
 
 This project provides a script that automates the creation of folders and subfolders in Google Drive based on data from a Google Sheets spreadsheet. It also includes a script to move files to the respective subfolders based on certain criteria.
